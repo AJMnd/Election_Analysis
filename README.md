@@ -15,7 +15,7 @@ Complete the election audit of a recent local congressional election.
 
 ## Summary
 The analysis of the election show that:
-- There were "x" votes in the election.
+- There were "369,711" votes in the election.
 - The candidates were:
     - Charles Casper Stockham
     - Diana Degette
