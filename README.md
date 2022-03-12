@@ -1,5 +1,4 @@
-# Stock-Analysis
-Green energy stock analysis
+
 ## Project Overview
 Complete the election audit of a recent local congressional election. 
 
