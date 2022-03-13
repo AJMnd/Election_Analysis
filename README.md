@@ -1,5 +1,5 @@
-# **Election Analysis**
-## Project Overview
+# ***Election Analysis***
+## *Project Overview*
 Complete the election audit of a recent local congressional election. 
 
 1. Calculate the total number of votes cast.
@@ -8,11 +8,11 @@ Complete the election audit of a recent local congressional election.
 4. Calculate the percentage of votes each candidate won.
 5. Determine the winner of the election based on popular vote.
 
-## Resources
+## *Resources*
 - Data Source: Election_results.csv
 - Software: Python 3.7, Visual Studio Code 1.65.2
 
-## Summary
+## *Summary*
 The analysis of the election show that:
 - There were "369,711" votes in the election.
 - The candidates were:
@@ -26,8 +26,8 @@ The analysis of the election show that:
 - The winner of the election was:
     - Candidate (Diana DeGette), who received "73.8%" of the vote and "272,892" number of votes.
 
-## Challange Overview
+## *Challange Overview*
 
-## Challenge Summary
+## *Challenge Summary*
 
  
