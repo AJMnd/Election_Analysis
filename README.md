@@ -26,8 +26,8 @@ The analysis of the election show that:
 - The winner of the election was:
     - Candidate (Diana DeGette), who received "73.8%" of the vote and "272,892" number of votes.
 
-## *Challange Overview*
+![](https://github.com/AJMnd/Election_Analysis/blob/main/analysis/results%20txt.png?raw=true)
 
-## *Challenge Summary*
+
 
  
